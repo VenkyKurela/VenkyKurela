@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 🌟
 I'm a passionate <strong>Java backend developer</strong> with a strong enthusiasm for learning, problem-solving, coding, and optimizing solutions. I believe in applying Java concepts to real-world problems to create better solutions and make a positive impact. 💻
  
 <strong>Interests:</strong>
-- *Java Ecosystem*: Java, Spring, Hibernate, JavaJ2EE, and more! 🌱
+- *Java Ecosystem*: Java, Spring Boot, Microservices, Hibernate, JavaJ2EE, and more! 🌱
 - *Problem-Solving*: Algorithmic challenges, coding contests, and brain teasers! 🤔
 - *Code Optimization*: Performance tuning, scalability, and best practices! ⚡️
 - *Open-Source Contributions*: Giving back to the community and learning from others! 🌈
